@@ -1,0 +1,20 @@
+1.	Original mask
+The extracted coordinates are:
+•	Medial lowest point:  [-114.73, -10.43, -590.50]
+•	Lateral lowest point: [-111.25, -9.56, -590.50]
+2.	2 mm expanded mask.
+The extracted coordinates are:
+•	Medial lowest point:  [-129.50, -112.99, -602.50]
+•	Lateral lowest point: [-96.47, -166.01, -610.50]
+3.	4 mm expanded mask.
+The extracted coordinates are:
+•	Medial lowest point:  [-128.63, -114.73, -602.50]
+•	Lateral lowest point: [-95.61, -167.74, -610.50]
+4.	Randomized mask 1
+The extracted coordinates are:
+•	Medial lowest point:  [-110.38, -117.33, -596.50]
+•	Lateral lowest point: [-94.74, -166.88, -602.50]
+5.	Randomized mask 2
+The extracted coordinates are:
+•	Medial lowest point:  [-109.51, -118.20, -596.50]
+•	Lateral lowest point: [-95.61, -166.88, -594.50]
